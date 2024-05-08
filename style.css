@@ -1,5 +1,6 @@
 
 :root {
+    
     --highlight: rgb(92, 190, 255);
     --highlight-hover: rgba(92, 190, 255, 0.9);
 
@@ -9,6 +10,8 @@
 
     --lighten-10: rgba(255, 255, 255, 0.1);
     --lighten-15: rgba(255, 255, 255, 0.15);
+
+    --border-radius: 0.5rem;
 }
 
 * {
